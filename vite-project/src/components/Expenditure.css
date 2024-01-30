@@ -1,0 +1,16 @@
+.Expenditure{
+    height: 10vh;
+    width: 100vw;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5px;
+    font-weight: bold;
+}
+.incom{
+    color: greenyellow;
+}
+.expens{
+    color: rgb(255, 0, 21);
+}
